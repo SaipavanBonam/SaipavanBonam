@@ -27,13 +27,20 @@
   <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,r" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,c,java,mysql" /><br>
 </div>
 
 <br/>
 <hr/>
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SaipavanBonam/SaipavanBonam/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+<hr/>
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
