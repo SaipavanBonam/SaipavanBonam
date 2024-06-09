@@ -9,7 +9,7 @@
 </h1>
 
 <br><br>
-<img align="right" alt="GIF" src="https://www.freepik.com/free-photo/programmer-scanning-screen-his-smartwatch-with-smartphone-camera_5698347.htm#fromView=image_search&page=6&position=14&uuid=065af79c-7a5b-44f0-b517-4f0bfc06761a" width="450px" height="300px" />
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/www.freepik.com/free-photo/programmer-scanning-screen-his-smartwatch-with-smartphone-camera_5698347.htm#fromView=image_search&page=6&position=14&uuid=065af79c-7a5b-44f0-b517-4f0bfc06761a" width="450px" height="300px" />
 
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
 <h2 align="left" font-weight="bold">About me</h2>  
